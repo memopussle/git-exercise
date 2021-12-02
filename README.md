@@ -1,3 +1,4 @@
 # git-exercise
 
-Hello world. My name is Thu
+Hello world. 
+Hello world again
